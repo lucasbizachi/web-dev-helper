@@ -7,3 +7,9 @@ O repositório está organizado em diferentes seções para facilitar a navegaç
 ## Linguagem Utilizada
 Todos os exemplos e códigos presentes neste repositório foram escritos em JavaScript.
 
+## Contribuição
+Contribuições são bem-vindas! Se você deseja adicionar novos recursos, corrigir problemas ou melhorar a organização deste repositório, sinta-se à vontade para abrir um pull request. Vamos aprender juntos!
+
+## Licença
+Este projeto está licenciado sob a licença MIT.
+
